@@ -10,11 +10,11 @@ Hãy "open issue" ngay nếu bạn cảm thấy chỗ nào đó chưa hợp lý,
 Trân trọng.
 
 ## Mục lục
-[1.1 Khái niệm chuỗi khối](1_1.ipynb)  
-[1.2 Một số công cụ mật mã](1_2.ipynb)  
-[1.3 Phân loại chuỗi khối](1_3.ipynb)  
-[1.4 Luật đồng thuận](1_4.ipynb)  
-[1.5 Sơ lược về Bitcoin](1_5.ipynb)  
+[1.1 Khái niệm chuỗi khối](https://nbviewer.jupyter.org/github/nguyenduyhieukma/from-Blockchain-to-Bitcoin/blob/master/1_1.ipynb)  
+[1.2 Một số công cụ mật mã](https://nbviewer.jupyter.org/github/nguyenduyhieukma/from-Blockchain-to-Bitcoin/blob/master/1_2.ipynb)  
+[1.3 Phân loại chuỗi khối](https://nbviewer.jupyter.org/github/nguyenduyhieukma/from-Blockchain-to-Bitcoin/blob/master/1_3.ipynb)  
+[1.4 Luật đồng thuận](https://nbviewer.jupyter.org/github/nguyenduyhieukma/from-Blockchain-to-Bitcoin/blob/master/1_4.ipynb)  
+[1.5 Sơ lược về Bitcoin](https://nbviewer.jupyter.org/github/nguyenduyhieukma/from-Blockchain-to-Bitcoin/blob/master/1_5.ipynb)  
 
 ## Tài liệu tham khảo
 1. Satoshi Nakamoto, _Bitcoin: A Peer-to-Peer Electronic Cash System_, https://bitcoin.org/bitcoin.pdf, 2008.
